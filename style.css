@@ -1,10 +1,10 @@
 .background-color{
    background-color: #FCECEA;
 }
-#watch{
+#watchs{
  background-color: #FFC107;
 }
-#bag{
+#bags{
 background-color: #198754;
 }
 #shoes{
@@ -13,4 +13,8 @@ background-color: #0D6EFD;
 .category-img{
     width: 100px;
     height: 100px;
+}
+.form-section{
+    width:1296px;
+    height: 300px;
 }
