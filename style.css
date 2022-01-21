@@ -25,3 +25,12 @@ border-radius: 8px;
 padding: 9px 25px;
 border: none;
 }
+.btn:hover{
+    transform: scale(1.2);
+    transition: transform, 1s;
+    color: white;
+}
+.card-img-top:hover{
+    transform: scale(1.2);
+    transition: transform, 2s;
+}
